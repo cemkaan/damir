@@ -1,0 +1,4 @@
+baseURL = "http://da-mir.ru/"
+languageCode = "ru"
+title = "промышленные вязальные машины Stoll CMS"
+theme = "botstrp5-busns"
