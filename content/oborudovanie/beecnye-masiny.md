@@ -1,6 +1,6 @@
 ---
-title: "Ploskovazalnye Masiny Stoll"
-date: 2021-06-17T16:00:04+03:00
+title: "Beecnye Masiny"
+date: 2021-06-17T17:28:43+03:00
 draft: false
 ---
 
@@ -10,7 +10,7 @@ draft: false
 
 Приглашаем!
 
-![прядильная машина](/images/inline-images/%D0%B1%D0%B5%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg)
+![прядильная машина](https://da-mir.ru/sites/default/files/inline-images/%D0%B1%D0%B5%D0%B5%D1%87%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg)
 
 Дополнение **трикотажных изделий** поясами, шнурками, бейками и другими вязаными аксессуарами – не только дань моде. Это ещё красиво и практично – особенно когда речь идёт о детском и спортивном трикотаже.
 
