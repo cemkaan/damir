@@ -8,7 +8,7 @@ draft: false
 
 **О трикотажной фабрике Дамир Текстиль**
 
-![trikotajnaya fabrika](/images/inline-images/trikotazhnaya_fabrika.jpg)
+![trikotajnaya fabrika](/images/trikotazhnaya_fabrika.jpg)
 
 Трикотажное производство Дамир Текстиль находится в городе Москва.
 

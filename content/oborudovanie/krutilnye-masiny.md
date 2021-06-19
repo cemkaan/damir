@@ -10,7 +10,12 @@ draft: false
 
 ВНИМАНИЕ НОВИНКА СО СКЛАДА В МОСКВЕ!
 
-![Крутильные машины](/images/inline-images/kur-mas1.jpg)![Крутильные машины](/images/inline-images/2.jpg)
+{{< youtube  96P7l4sKwkM >}}
+{{< youtube  rkogTubQdII >}}
+{{< youtube  j-S03ejE9Ic >}}
+{{< youtube  LHBXr7Ixe0U >}}
+
+![Крутильные машины](/images/oborudovanie/kur-mas1.png)![Крутильные машины](/images/oborudovanie/2.jpg)
 
 **на фото модель DIREC TWST 2B6**
 
@@ -32,39 +37,39 @@ draft: false
 
 **SERVO** – это устройство также работает в паре с машиной и используется для синхронной подачи нити на машину т.е. равномерно и с одинаковой скоростью нить с бобины подаётся на машину.
 
-### ![kruchenie](/images/inline-images/01_l.jpg)
+### ![kruchenie](/images/oborudovanie/01_l.jpg)
 
 Уникальная система передачи крутящего момента, а также возможность парафинирования нити в момент кручения.  
 Устройство фурниссер обеспечивает наилучший съем нити с бобины.
 
-![tablo direct twist](/images/inline-images/DirectTwist.jpg)
+![tablo direct twist](/images/oborudovanie/DirectTwist.jpg)
 
 Четкий и большой сенсорный экран нового поколения обеспечивает оператору быстрый досиуп ко всем функциям программирования
 
-![buttons](/images/inline-images/bbuttons.gif)
+![buttons](/images/oborudovanie/bbuttons.gif)
 
 Мигающий индикатор разными цветами позволяет определить ошибку с наибольшего расстояния.
 
-![kruchenie](/images/inline-images/03_l.jpg)
+![kruchenie](/images/oborudovanie/03_l.jpg)
 
 Два способа заправки нити позволяют сделать несколько видов кручений.
 
-![vraschenie](/images/inline-images/08_l.jpg)
+![vraschenie](/images/oborudovanie/08_l.jpg)
 
 одним нажатием кнопки меняется вращение в S или Z направление.
 
-![niti](/images/inline-images/06_l.jpg)
+![niti](/images/oborudovanie/06_l.jpg)
 
 Дополнительное программируемое устройство позволяет проложить от 10 до 90% лайкры на выбранном участке скручиваемой пряжи.
 
-![DirecTwist](/images/inline-images/07_l.jpg)
+![DirecTwist](/images/oborudovanie/07_l.jpg)
 
 Максимальная скорость 18 000 об\мин до 2000 кручений\метр, все программируется с модуля управления (мод DirecTwist 210С).
 
-![zapravka niti](/images/inline-images/04_l.jpg)
+![zapravka niti](/images/oborudovanie/04_l.jpg)
 
 Сенсорные датчики обрыва на каждую заправленную нить, а также пневматическая система заправки нить в ось.
 
-![konus](/images/inline-images/09_l.jpg) ![zilindr](/images/inline-images/11_l.jpg)
+![konus](/images/oborudovanie/09_l.jpg) ![zilindr](/images/oborudovanie/11_l.jpg)
 
 Идеально равномерная укладка, как на конус, так и на цилиндр, регулируемый диаметр и количество метров намотки.

@@ -6,7 +6,7 @@ draft: false
 
 # Мотальные машины
 
-ВНИМАНИЕ! Возможно изготовить любую мотальную или тростильную машину по вашему индивидуальному заказу.
+**ВНИМАНИЕ!** Возможно изготовить любую мотальную или тростильную машину по вашему индивидуальному заказу.
 
 #### Мотальное оборудование
 
@@ -19,9 +19,9 @@ draft: false
 - одноголовочная настенный или настольный вариант,
 - 2 или 4 головочные или модулями по 4 головы
 
-![motalnoe](/images/inline-images/1_3.jpg)
+![motalnoe](/images/oborudovanie/1_3.jpg)
 
-![fsm](/images/inline-images/fsm4-2-12.jpg)
+![fsm](/images/oborudovanie/fsm4-2-12.jpg)
 
 - Длина бобины: 6-10 дюймов
 - Максимальный диаметр намотки : 380 мм
@@ -29,15 +29,15 @@ draft: false
 - Регулировка скорости, автоматическая остановка при обрыве нити, регулировка размера диаметра наматываемой бобины, парафинирование пряжи.
 - 380Вольт\0,08 кВт\50HZ\0,22А\1400 об\мин
 
-![ukladchik](/images/inline-images/05_-_1.jpg)  
+![ukladchik](/images/oborudovanie/05_-_1.jpg)  
 Укладчик нити, держатель конуса, мотор, трехуровневый шкиф регулировки скорости намотки, планка контроля обрыва нити и пуска мотора
 
-![parafinir](/images/inline-images/13.jpg)
+![parafinir](/images/oborudovanie/13.jpg)
 
 Электромотор с функцией плавного пуска и стопа, ограничитель диаметра намотки  
 Устройство парафинирования из алюминия и регулировки плотности намотки нити
 
-![ogranichitel](/images/inline-images/12.jpg)  
+![ogranichitel](/images/oborudovanie/12.jpg)  
 Ограничитель диаметра намотки
 
 **Мотальная машина с функцией роспуска трикотажных купонов**
@@ -50,7 +50,7 @@ draft: false
 
 -2, 4, 6 головочные.
 
-![rospusk](/images/inline-images/_2.jpg)
+![rospusk](/images/oborudovanie/_2.jpg)
 
 - Длина бобины: 6-8-10 дюймов
 - Максимальный диаметр намотки : 380 мм
@@ -58,16 +58,16 @@ draft: false
 - Имеется система автоматической регулировки скорости, автоматическая остановка при обрыве нити, регулировка размера намотки на конус, парафинирование пряжи.
 - 220\380Вольт\0,08 кВт\50HZ\0,22А\1400 об\мин
 
-![ukladchik](/images/inline-images/42_1.jpg)  
+![ukladchik](/images/oborudovanie/42_1.jpg)  
 Укладчик нити, держатель конуса, мотор, трехуровневый шкиф регулировки скорости намотки,планка контроля обрыва нити и пуска мотора
 
-![elektromotor](/images/inline-images/42_2.jpg)  
+![elektromotor](/images/oborudovanie/42_2.jpg)  
 Электромотор с функцией плавного пуска и стопа, ограничитель диаметра намотки
 
-![parafinir](/images/inline-images/42_3.jpg)  
+![parafinir](/images/oborudovanie/42_3.jpg)  
 Устройство парафинирования с устройством микроредуктора для равномерного срабатывания парафина и регулировки плотности намотки нити
 
-![electrmenu](/images/inline-images/42_4.jpg)  
+![electrmenu](/images/oborudovanie/42_4.jpg)  
 Электронное меню, где отражается скорость намотки, возможна регулировка скорости намотки
 
 **ЭТО ВЫГОДНОЕ ПРИОБРЕТЕНИЕ ДЛЯ ТРИКОТАЖНОЙ ФАБРИКИ:**
@@ -80,7 +80,7 @@ draft: false
 
 **Тростильная машина KTLM - 01**
 
-**![trosilnaya](/images/inline-images/img134.jpg)**
+**![trosilnaya](/images/oborudovanie/img134.jpg)**
 
 Воможно изготовить **тростильную машину** по Вашему индивидуальному заказу!
 
@@ -92,27 +92,27 @@ draft: false
 - Имеется автоматическая система регулировки скорости, автоматическая остановка при обрыве нити, регулировка размера намотки на конус.
 - 380Вольт\0,08 кВт\50HZ\0,22А\2800 об\мин
 
-![niteukladchik](/images/inline-images/img135.jpg)  
+![niteukladchik](/images/oborudovanie/img135.jpg)  
 Регулируемый по ширине держатель конуса, нитеукладчик
 
-![regulir](/images/inline-images/img1352.jpg)  
+![regulir](/images/oborudovanie/img1352.jpg)  
 Регки
 
-![shpularnik](/images/inline-images/img1353.jpg)  
+![shpularnik](/images/oborudovanie/img1353.jpg)  
 Шпулировкой натяжения нити
 
-![blok](/images/inline-images/img1354.jpg)  
+![blok](/images/oborudovanie/img1354.jpg)  
 Блок управления
 
-![regulir](/images/inline-images/img1355.jpg)  
+![regulir](/images/oborudovanie/img1355.jpg)  
 Регулировка кол-ва наматываемых метров
 
 Вариант тростильной машины KTLM - 02 на трощение 4-х нитей
 
-![4niti](/images/inline-images/ktlm02k.jpg)
+![4niti](/images/oborudovanie/ktlm02k.jpg)
 
 **Запасные части MILHAN**
 
 Запчасти для **мотального оборудования** со склада в Москве
 
-**![zapchasti](/images/inline-images/_milhan.jpg)**
+**![zapchasti](/images/oborudovanie/_milhan.jpg)**

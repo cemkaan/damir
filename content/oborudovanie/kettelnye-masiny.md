@@ -51,10 +51,10 @@ draft: false
 
 Приглашаем!
 
-![kettelnoye-oborudovaniya-iz-italiiCONTI-COMPLETT](/images/inline-images/kettelnoye-oborudovaniya-iz-italiiCONTI-COMPLETT.jpg)
+![kettelnoye-oborudovaniya-iz-italiiCONTI-COMPLETT](/images/oborudovanie/kettelnoye-oborudovaniya-iz-italiiCONTI-COMPLETT.jpg)
 
 машина кеттельная CONTI COMPLETT, модель 99 VD
 
-![машины кеттельные KMS, STAR2000, KUZEY](/images/inline-images/ikiliKolaj.jpg)
+![машины кеттельные KMS, STAR2000, KUZEY](/images/oborudovanie/ikiliKolaj.jpg)
 
 машины кеттельные KMS, STAR2000, KUZEY

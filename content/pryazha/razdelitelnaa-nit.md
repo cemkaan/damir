@@ -22,4 +22,4 @@ draft: false
 
 **Пряжа нейлоновая для разделения трикотажных купонов**
 
-![neylon](/images/inline-images/neylon.jpg)
+![neylon](/images/pryazha/neylon.jpg)

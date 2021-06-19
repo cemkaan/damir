@@ -22,22 +22,4 @@ _2. Спандекс для гребенки -_ этот вид спандекс
 
 Возможность заказать любой цвет по каталогу. Минимальная партия заказа нити спандекса - 10-12 кг.
 
-## [08](https://da-mir.ru/08)
-
-[![08](/images/styles/max_325x325/public/2017-10/08.JPG?itok=ohATwqGD)](/images/2017-10/08.JPG)
-
-## [10](https://da-mir.ru/10)
-
-[![10](/images/styles/max_325x325/public/2017-10/10.JPG?itok=IFnpEWdp)](/images/2017-10/10.JPG)
-
-## [54](https://da-mir.ru/54)
-
-[![54](/images/styles/max_325x325/public/2017-10/54.JPG?itok=Dg-YnzZU)](/images/2017-10/54.JPG)
-
-## [55](https://da-mir.ru/55)
-
-[![55](/images/styles/max_325x325/public/2017-10/55.JPG?itok=lD1eb2CK)](/images/2017-10/55.JPG)
-
-## [57](https://da-mir.ru/57)
-
-[![57](/images/styles/max_325x325/public/2017-10/57.JPG?itok=JXIVJjWA)](/images/2017-10/57.JPG)
+# SPANDEKS GALERİ GELECEK

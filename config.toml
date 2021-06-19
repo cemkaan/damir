@@ -11,10 +11,7 @@ theme = "botstrp5-busns"
     parent = "Дамир"
     name = "История компании"
     url = "/istoria-kompanii/"
-  [[menu.main]]
-    parent = "Дамир"
-    name = "Партнеры"
-    url = "/partnery/"
+
   [[menu.main]]
     parent = "Дамир"
     name = "Преимущества работы с нами"
@@ -36,7 +33,7 @@ theme = "botstrp5-busns"
     url = "/oborudovanie/motalnye-masiny/"
   [[menu.main]]
     parent = "Оборудование"
-    name = "Мотальные машины"
+    name = "Кеттельные машины"
     url = "/oborudovanie/kettelnye-masiny/"
   [[menu.main]]
     parent = "Оборудование"

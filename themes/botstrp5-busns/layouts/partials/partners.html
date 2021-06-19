@@ -1,0 +1,35 @@
+<section id="partners" class="py-5">
+  <div class="own-carousel__container">
+    <div class="own-carousel__outer">
+      <div class="own-carousel">
+        <div class="own-carousel__item">Your content</div>
+        <div class="own-carousel__item">Your content</div>
+        <div class="own-carousel__item">Your content</div>
+        <div class="own-carousel__item">Your content</div>
+        <div class="own-carousel__item">Your content</div>
+        <div class="own-carousel__item">Your content</div>
+      </div>
+    </div>
+    {{/*
+    <div class="own-carousel__control">
+      <button class="control__prev">«</button>
+      <button class="control__next">»</button>
+    </div>
+    */}}
+  </div>
+</section>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelector(".own-carousel__container").ownCarousel({
+      itemPerRow: 5,
+      itemWidth: 19,
+      responsive: {
+        1000: [4, 24],
+        800: [3, 33],
+        600: [2, 49],
+        400: [1, 100],
+      },
+    });
+    responsive();
+  });
+</script>

@@ -6,14 +6,13 @@
 }
 
 body {
-  background-image: url(/images/fon-m.jpg);
-  background-size: 100%;
-  color: #252525;
+  /* background-color: #c0b2ab; */
+  color: #2e3d3b;
   font-family: "Montserrat", sans-serif;
 }
 
 a {
-  color: #3eb0f7;
+  color: #00a385;
   text-decoration: none;
 }
 
@@ -28,7 +27,30 @@ h1 {
 }
 
 main {
-  background-color: rgb(252, 252, 252);
-  background-color: rgba(252, 252, 252, 0.9);
-  min-height: 55rem;
+  background-color: #faf8f8;
+  min-height: 45rem;
+  padding: 0.5rem 1rem;
+  line-height: 1.8;
+}
+
+@media (min-width: 768px) {
+  main {
+    padding: 2rem 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  main {
+    padding: 4rem 8rem;
+  }
+}
+@media (min-width: 1200px) {
+  main {
+    padding: 5rem 10rem;
+  }
+}
+
+.own-carousel__item {
+  height: 200px;
+  background-color: rosybrown;
 }

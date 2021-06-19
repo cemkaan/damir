@@ -8,13 +8,13 @@ draft: false
 
 Наши партнеры
 
-[![Milhan](/images/inline-images/milhan-l.png)](http://www.milhanmakina.com.tr/)
+[![Milhan](/images/partnery/milhan-l.png)](http://www.milhanmakina.com.tr/)
 
 [MILHAN](http://www.milhanmakina.com.tr/)
 
 лидер производства Мотального и тростильного оборудования в Турции
 
-![Akal](/images/inline-images/akal%20%D0%BF%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%20%D0%BF%D1%80%D1%8F%D0%B6%D0%B8.jpg)
+![Akal](/images/partnery/akal%20%D0%BF%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D1%89%D0%B8%D0%BA%20%D0%BF%D1%80%D1%8F%D0%B6%D0%B8.jpg)
 
 [AK-AL](http://www.ak-al.com.tr/)
 
@@ -24,19 +24,19 @@ draft: false
 
 Качество продукции этой фабрики - на высшем уровне!
 
-![kms](/images/inline-images/kms.png)
+![kms](/images/partnery/kms.png)
 
 [KMS](http://kmskuba.com/kmsweb/ru/index.php)
 
 поставщик вспомогательного оборудования для трикотажных фабрик: кеттельные машины, мотальное оборудование, сметочные машины, оборудование ВТО и другое
 
-![Agteks](/images/inline-images/agteks-l.png)
+![Agteks](/images/partnery/agteks-l.png)
 
 [AGTEKS](http://www.agteks.com/)
 
 единственный уникальный производитель крутильного оборудования с запатентованной системой механизма двойного кручения. Крутит за 1 операцию все виды нитей от трикотажных до армированных, стекловолокна.
 
-![Malkan](/images/inline-images/malkan%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%82%D0%BE.jpg)
+![Malkan](/images/partnery/malkan%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%82%D0%BE.jpg)
 
 [MALKAN](http://www.malkan.com.tr/ru/anasayfa/anasayfa.php)
 
@@ -44,7 +44,7 @@ draft: false
 
 Большой ассортимент паровых столов, утюгов, парогенераторов..
 
-![comnlett](/images/inline-images/conl.jpg)
+![comnlett](/images/partnery/conl.jpg)
 
 [CONTI COMPLETT](http://www.complett.it/)
 
