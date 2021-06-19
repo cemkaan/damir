@@ -1,0 +1,34 @@
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+:root {
+  --bs-primary: #b0252d;
+}
+
+body {
+  background-image: url(/images/fon-m.jpg);
+  background-size: 100%;
+  color: #252525;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #3eb0f7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1c62ae;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+main {
+  background-color: rgb(252, 252, 252);
+  background-color: rgba(252, 252, 252, 0.9);
+  min-height: 55rem;
+}

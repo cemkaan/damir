@@ -7,13 +7,65 @@ theme = "botstrp5-busns"
     parent = "Дамир"
     name = "История компании"
     url = "/istoria-kompanii/"
-    weight = -15
   [[menu.main]]
-    parent = "katalog"
-    name = "istori"
-    url = "/istoria-kompanii/"
-    weight = 10
+    parent = "Дамир"
+    name = "Партнеры"
+    url = "/partnery/"
   [[menu.main]]
-    name = "a С НАМИ"
-    url = "/kontakty/"
-    weight = 5
+    parent = "Дамир"
+    name = "Преимущества работы с нами"
+    url = "/preimusestva-raboty-s-nami/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Плосковязальные машины Stoll"
+    url = "/oborudovanie/ploskovazalnye-masiny-stoll/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Оборудование ВТО"
+    url = "/oborudovanie/oborudovanie-vto/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Мотальные машины"
+    url = "/oborudovanie/motalnye-masiny/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Мотальные машины"
+    url = "/oborudovanie/kettelnye-masiny/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Крутильные машины"
+    url = "/oborudovanie/krutilnye-masiny/"
+  [[menu.main]]
+    parent = "Оборудование"
+    name = "Беечные машины"
+    url = "/oborudovanie/beecnye-masiny/"
+  [[menu.main]]
+    name = "Сервис STOLL"
+    url = "/servis-stoll/"
+  [[menu.main]]
+    parent = "Сервис STOLL"
+    name = "Восстановленные машины Stoll"
+    url = "/servis-stoll/vosstanovlennye-masiny-stoll/"
+  [[menu.main]]
+    parent = "Сервис STOLL"
+    name = "Обучение работе на Stoll"
+    url = "/servis-stoll/obucenie-rabote-na-stoll/"
+  [[menu.main]]
+    parent = "Сервис STOLL"
+    name = "Ремонт электроники и механики"
+    url = "/servis-stoll/remont-elektroniki-i-mehaniki/"
+  [[menu.main]]
+    parent = "Сервис STOLL"
+    name = "Сервисное обслуживание Stoll"
+    url = "/servis-stoll/servisnoe-obsluzivanie-stoll/"
+  [[menu.main]]
+    name = "Пряжа"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Пряжа на бобинах"
+    url = "/pryazha/pryazha-na-bobinakh/"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Вискоза"
+    url = "/pryazha/viskoza/"
+
