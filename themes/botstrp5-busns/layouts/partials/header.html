@@ -15,13 +15,13 @@
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> {{ .Name }} </a>
               <div class="dropdown-menu">
                 {{ range .Children }}
-                <a class="dropdown-item" href="{{ .URL  }}">{{ .Name }}</a>
+                <a class="dropdown-item" title="{{ .Name}}" href="{{ .URL  }}">{{ .Name }}</a>
                 {{ end }}
               </div>
             </li>
             {{ else }}
             <li class="nav-item">
-              <a class="nav-link" title="{{ .Identifier}}" href="{{ .URL }}">{{ .Name }}</a>
+              <a class="nav-link" title="{{ .Name}}" href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }} {{ end }}
           </ul>

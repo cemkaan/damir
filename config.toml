@@ -2,7 +2,11 @@ baseURL = "http://da-mir.ru/"
 languageCode = "ru"
 title = "промышленные вязальные машины Stoll CMS"
 theme = "botstrp5-busns"
+
 [menu]
+  [[menu.main]]
+    name = "Дамир"
+    weight = 1
   [[menu.main]]
     parent = "Дамир"
     name = "История компании"
@@ -15,6 +19,9 @@ theme = "botstrp5-busns"
     parent = "Дамир"
     name = "Преимущества работы с нами"
     url = "/preimusestva-raboty-s-nami/"
+  [[menu.main]]
+    name = "Оборудование"
+    weight = 2
   [[menu.main]]
     parent = "Оборудование"
     name = "Плосковязальные машины Stoll"
@@ -42,6 +49,7 @@ theme = "botstrp5-busns"
   [[menu.main]]
     name = "Сервис STOLL"
     url = "/servis-stoll/"
+    weight = 3
   [[menu.main]]
     parent = "Сервис STOLL"
     name = "Восстановленные машины Stoll"
@@ -60,6 +68,7 @@ theme = "botstrp5-busns"
     url = "/servis-stoll/servisnoe-obsluzivanie-stoll/"
   [[menu.main]]
     name = "Пряжа"
+    weight = 4
   [[menu.main]]
     parent = "Пряжа"
     name = "Пряжа на бобинах"
@@ -68,4 +77,42 @@ theme = "botstrp5-busns"
     parent = "Пряжа"
     name = "Вискоза"
     url = "/pryazha/viskoza/"
-
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Марс"
+    url = "/pryazha/mars/"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Хлопок/Акрил"
+    url = "/pryazha/khlopok-akril/"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Спандекс"
+    url = "/pryazha/spandeks/"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Разделительная нить"
+    url = "/pryazha/razdelitelnaa-nit/"
+  [[menu.main]]
+    parent = "Пряжа"
+    name = "Метанит / Люрекс"
+    url = "/pryazha/metanit-lureks/"
+  [[menu.main]]
+    name = "Каталог"
+    url = "/katalog/"
+    weight = 5
+  [[menu.main]]
+    name = "Трикотажная фабрика"
+    weight = 6
+  [[menu.main]]
+    parent = "Трикотажная фабрика"
+    name = "О трикотажной фабрике"
+    url = "/o-trikotaznoi-fabrike/"
+  [[menu.main]]
+    parent = "Трикотажная фабрика"
+    name = "Каталог изделий"
+    url = "/katalog-izdeliy/"
+  [[menu.main]]
+    name = "Контакты"
+    url = "/kontakty/"
+    weight = 7
