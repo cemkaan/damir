@@ -1,0 +1,34 @@
+<header id="header" class="fixed-top">
+  <div class="container d-flex align-items-center">
+    <a href="/" class="logo me-auto"><img src="/images/damir-logo-fp.png" alt="Главная" class="img-fluid" /></a>
+
+    <nav id="navbar" class="navbar navbar-expand-lg navbar-light">
+      <div class="container-fluid">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            {{ range site.Menus.main }} {{ if .HasChildren }}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> {{ .Name }} </a>
+              <div class="dropdown-menu">
+                {{ range .Children }}
+                <a class="dropdown-item" href="{{ .URL  }}">{{ .Name }}</a>
+                {{ end }}
+              </div>
+            </li>
+            {{ else }}
+            <li class="nav-item">
+              <a class="nav-link" title="{{ .Identifier}}" href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }} {{ end }} {{/* {{ $currentPage := . }} {{ range .Site.Menus.main }}
+            <li class="nav-item"><a class="nav-link" title="{{ .Identifier}}" href="{{ .URL }}"> {{ .Name }} </a></li>
+            {{ end }} */}}
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>
+</header>

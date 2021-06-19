@@ -2,3 +2,18 @@ baseURL = "http://da-mir.ru/"
 languageCode = "ru"
 title = "промышленные вязальные машины Stoll CMS"
 theme = "botstrp5-busns"
+[menu]
+  [[menu.main]]
+    parent = "Дамир"
+    name = "История компании"
+    url = "/istoria-kompanii/"
+    weight = -15
+  [[menu.main]]
+    parent = "katalog"
+    name = "istori"
+    url = "/istoria-kompanii/"
+    weight = 10
+  [[menu.main]]
+    name = "a С НАМИ"
+    url = "/kontakty/"
+    weight = 5
