@@ -1,0 +1,35 @@
+[[partners]] 
+name = "Milhan"
+site = "http://www.milhanmakina.com.tr/"
+logo = "/images/partnery/milhan-l.png"
+desc = "лидер производства Мотального и тростильного оборудования в Турции"
+[[partners]] 
+name = "CONTI COMPLETT"
+site = "http://www.complett.it/"
+logo = "/images/partnery/conl.jpg"
+desc = """поставщик кеттельного оборудованияиз Италии."""
+[[partners]] 
+name = "KMS"
+site = "http://kmskuba.com/kmsweb/ru/index.php"
+logo = "/images/partnery/kms.png"
+desc = """поставщик вспомогательного оборудования для трикотажных фабрик:\r\n<br>
+ кеттельные машины, мотальное оборудование, сметочные машины, оборудование ВТО и другое"""
+[[partners]] 
+name = "AGTEKS"
+site = "http://www.agteks.com/"
+logo = "/images/partnery/agteks-l.png"
+desc = """ единственный уникальный производитель крутильного оборудования с запатентованной системой механизма двойного кручения.\r\n<br>
+Крутит за 1 операцию все виды нитей от трикотажных до армированных, стекловолокна."""
+[[partners]] 
+name = "MALKAN"
+site = "http://www.malkan.com.tr/ru/anasayfa/anasayfa.php"
+logo = "/images/partnery/malkan.jpg"
+desc = """самое надежное оборудование влажно-тепловой обработки для трикотажа и тканей.\r\n<br>
+Большой ассортимент паровых столов, утюгов, парогенераторов."""
+[[partners]] 
+name = "Ak-al"
+site = "https://www.ak-al.com.tr/index.php"
+logo = "/images/partnery/akal.jpg"
+desc = """один из немногих производителей пряжи из акрила, который делает ЭКО АКРИЛ:\r\n<br>
+имеются сертификаты безопасности, что означает используемое сырье и краски лучшего качества и неопасно для здоровья.<br>
+Качество продукции этой фабрики - на высшем уровне!"""

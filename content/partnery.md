@@ -36,7 +36,7 @@ draft: false
 
 единственный уникальный производитель крутильного оборудования с запатентованной системой механизма двойного кручения. Крутит за 1 операцию все виды нитей от трикотажных до армированных, стекловолокна.
 
-![Malkan](/images/partnery/malkan%20%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%D1%82%D0%BE.jpg)
+![Malkan](/images/partnery/malkan.jpg)
 
 [MALKAN](http://www.malkan.com.tr/ru/anasayfa/anasayfa.php)
 

@@ -1,0 +1,7 @@
+.card-img-top {
+  height: 7rem;
+  object-fit: contain;
+}
+#partners .own-carousel__item .card {
+  min-height: 26rem;
+}

@@ -49,8 +49,3 @@ main {
     padding: 5rem 10rem;
   }
 }
-
-.own-carousel__item {
-  height: 200px;
-  background-color: rosybrown;
-}
