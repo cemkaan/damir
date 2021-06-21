@@ -10,7 +10,7 @@
 }
 
 .about .content ul {
-  list-style: none;
+  list-style: disc;
   padding: 1rem;
 }
 

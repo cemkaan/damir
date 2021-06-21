@@ -32,7 +32,26 @@ main {
   padding: 0.5rem 1rem;
   line-height: 1.8;
 }
+main p img {
+  max-width: 100%;
+  height: auto;
+}
 
+.Mars p:nth-child(2),
+.Mars p:nth-child(3) {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Metanit.Lureks p:last-child {
+  display: flex;
+  justify-content: space-between;
+}
+/* 
+.Metanit.Lureks p:last-child img {
+  max-width: 20%;
+  height: auto;
+} */
 @media (min-width: 768px) {
   main {
     padding: 2rem 4rem;

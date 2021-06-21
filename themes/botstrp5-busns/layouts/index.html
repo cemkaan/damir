@@ -1,11 +1,11 @@
 {{ define "main" }}
 <main id="main container">
-  {{- partial "front-hero.html" . -}}
+  {{- partial "home/front-hero.html" . -}}
   <section id="about" class="about">
     <p class="text-end"><a href="tel:+74952266017">+7 (495) 22-66-017</a></p>
     <div class="row content">{{.Content}}</div>
   </section>
-  {{- partial "partners.html" . -}}
+  {{- partial "home/partners.html" . -}}
 </main>
 
 {{ end }}

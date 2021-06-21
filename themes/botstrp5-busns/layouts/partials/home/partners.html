@@ -23,12 +23,13 @@
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelector(".own-carousel__container").ownCarousel({
-      itemPerRow: 3,
-      itemWidth: 33,
+      itemPerRow: 5,
+      itemWidth: 19,
       autoplay: 1500,
       responsive: {
-        1200: [2, 33],
-        768: [1, 49],
+        1400: [4, 24],
+        1200: [3, 32],
+        992: [2, 49],
       },
     });
     responsive();
