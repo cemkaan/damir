@@ -1,0 +1,24 @@
+<link rel="stylesheet" href="/css/glightbox.min.css" />
+
+{{/* TODO:get page resources https://gohugo.io/content-management/image-processing/ */}}
+
+<div id="gal">
+  <a href="/images/pryazha/spandeks/08.JPG" class="glightbox3" data-gallery="gallery1">
+    <img src="/images/pryazha/spandeks/th/08.jpg" alt="08" />
+    <div class="num text-center">08</div>
+  </a>
+
+  <a href="/images/pryazha/spandeks/10.JPG" class="glightbox3" data-gallery="gallery1">
+    <img src="/images/pryazha/spandeks/th/10.jpg" alt="10" />
+    <div class="num text-center">10</div>
+  </a>
+</div>
+
+<script src="/js/glightbox.min.js"></script>
+<script>
+  var lightbox = GLightbox();
+  lightbox.on("open", (target) => {});
+  var lightboxInlineIframe = GLightbox({
+    selector: ".glightbox3",
+  });
+</script>
