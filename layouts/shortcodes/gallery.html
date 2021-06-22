@@ -3,15 +3,20 @@
 {{/* TODO:get page resources https://gohugo.io/content-management/image-processing/ */}}
 
 <div id="gal">
-  <a href="/images/pryazha/spandeks/08.JPG" class="glightbox3" data-gallery="gallery1">
-    <img src="/images/pryazha/spandeks/th/08.jpg" alt="08" />
-    <div class="num text-center">08</div>
+  {{- with (.Get "dir") -}}
+   {{- $files := readDir (print "/static/" .) }} 
+   {{- range $files -}} 
+    {{- $imageUrl := print ($.Get "dir") "/" .Name | relURL }} 
+    {{- $thumbUrl := print ($.Get "dir") "/th/" .Name | relURL }}
+    {{ $fileName := (strings.TrimSuffix ".jpg" .Name) }} 
+     {{ if ne $fileName "th" }}
+  <a href="{{ $imageUrl }}" class="glightbox3" data-gallery="gallery1">
+    <img src="{{ $thumbUrl }}" alt="{{ $fileName }}" />
+    <div class="num text-center">{{ $fileName }}</div>
   </a>
-
-  <a href="/images/pryazha/spandeks/10.JPG" class="glightbox3" data-gallery="gallery1">
-    <img src="/images/pryazha/spandeks/th/10.jpg" alt="10" />
-    <div class="num text-center">10</div>
-  </a>
+     {{ end }} 
+   {{- end }} 
+  {{- end }}
 </div>
 
 <script src="/js/glightbox.min.js"></script>
