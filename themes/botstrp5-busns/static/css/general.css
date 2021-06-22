@@ -1,6 +1,3 @@
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 :root {
   --bs-primary: #b0252d;
 }
@@ -25,7 +22,9 @@ h1 {
   text-align: center;
   padding-bottom: 30px;
 }
-
+/*--------------------------------------------------------------
+# main
+--------------------------------------------------------------*/
 main {
   background-color: #faf8f8;
   min-height: 45rem;
@@ -37,21 +36,14 @@ main p img {
   height: auto;
 }
 
-.Mars p:nth-child(2),
-.Mars p:nth-child(3) {
-  display: flex;
-  justify-content: space-between;
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Katalog.Izdeliy #gal .num {
+  visibility: hidden;
 }
 
-.Metanit.Lureks p:last-child {
-  display: flex;
-  justify-content: space-between;
-}
-/* 
-.Metanit.Lureks p:last-child img {
-  max-width: 20%;
-  height: auto;
-} */
 @media (min-width: 768px) {
   main {
     padding: 2rem 4rem;

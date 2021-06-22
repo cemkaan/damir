@@ -3,6 +3,7 @@
 {{/* TODO:get page resources https://gohugo.io/content-management/image-processing/ */}}
 
 <div id="gal">
+  {{ $galCode :=  slicestr (md5  (.Get "dir")) 2 6 }}
   {{- with (.Get "dir") -}}
    {{- $files := readDir (print "/static/" .) }} 
    {{- range $files -}} 
@@ -10,9 +11,10 @@
     {{- $thumbUrl := print ($.Get "dir") "/th/" .Name | relURL }}
     {{ $fileName := (strings.TrimSuffix ".jpg" .Name) }} 
      {{ if ne $fileName "th" }}
-  <a href="{{ $imageUrl }}" class="glightbox3" data-gallery="gallery1">
-    <img src="{{ $thumbUrl }}" alt="{{ $fileName }}" />
-    <div class="num text-center">{{ $fileName }}</div>
+  <a href="{{- $imageUrl -}}" class="g{{- $galCode -}}" 
+  data-gallery="g{{-  $galCode -}}"  data-title="{{ humanize  $fileName }}">
+    <img src="{{- $thumbUrl -}}" alt="{{ humanize  $fileName }}" />
+    <div class="num text-center">{{ humanize  $fileName }}</div>
   </a>
      {{ end }} 
    {{- end }} 
@@ -24,6 +26,6 @@
   var lightbox = GLightbox();
   lightbox.on("open", (target) => {});
   var lightboxInlineIframe = GLightbox({
-    selector: ".glightbox3",
+    selector: ".g{{- $galCode -}}",
   });
 </script>

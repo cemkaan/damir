@@ -6,7 +6,9 @@ draft: false
 
 # Каталог изделий
 
-[![-01](/images/katalog-izde/th/image01.jpg)](/images/katalog-izde/image01.jpg) [![-02](/images/katalog-izde/th/image02.jpg)](/images/katalog-izde/image02.jpg) [![-03](/images/katalog-izde/th/image03.jpg)](/images/katalog-izde/image03.jpg) [![-04](/images/katalog-izde/th/image04.jpg)](/images/katalog-izde/image04.jpg) [![-05](/images/katalog-izde/th/image05.jpg)](/images/katalog-izde/image05.jpg) [![-06](/images/katalog-izde/th/image06.jpg)](/images/katalog-izde/image06.jpg) [![-07](/images/katalog-izde/th/image07.jpg)](/images/katalog-izde/image07.jpg) [![-08](/images/katalog-izde/th/image08.jpg)](/images/katalog-izde/image08.jpg) [![-09](/images/katalog-izde/th/image09.jpg)](/images/katalog-izde/image09.jpg) [![-10](/images/katalog-izde/th/image10.jpg)](/images/katalog-izde/image10.jpg)
+{{< gallery dir="/images/katalog-izde/1"   >}}
+
+
 
 Трикотажная фабрика Дамир Текстиль изготовит по Вашему эскизу, образцу любой вязаное изделие!
 
@@ -49,4 +51,4 @@ draft: false
   - фанатские шарфы
   - пледы с символикой клуба
 
-[![-01](/images/katalog-izde/2/th/katalogizdeliy2-01.jpg)](/images/katalog-izde/2/katalogizdeliy2-01.jpg) [![-02](/images/katalog-izde/2/th/katalogizdeliy2-02.jpg)](/images/katalog-izde/2/katalogizdeliy2-02.jpg) [![-03](/images/katalog-izde/2/th/katalogizdeliy2-03.jpg)](/images/katalog-izde/2/katalogizdeliy2-03.jpg) [![-04](/images/katalog-izde/2/th/katalogizdeliy2-04.jpg)](/images/katalog-izde/2/katalogizdeliy2-04.jpg) [![-05](/images/katalog-izde/2/th/katalogizdeliy2-05.jpg)](/images/katalog-izde/2/katalogizdeliy2-05.jpg) [![-08](/images/katalog-izde/2/th/katalogizdeliy2-08.jpg)](/images/katalog-izde/2/katalogizdeliy2-08.jpg) [![-06](/images/katalog-izde/2/th/katalogizdeliy2-06.jpg)](/images/katalog-izde/2/katalogizdeliy2-06.jpg) [![-07](/images/katalog-izde/2/th/katalogizdeliy2-07.jpg)](/images/katalog-izde/2/katalogizdeliy2-07.jpg)
+{{< gallery dir="/images/katalog-izde/2"   >}}

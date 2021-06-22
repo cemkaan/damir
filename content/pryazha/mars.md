@@ -6,9 +6,7 @@ draft: false
 
 # Марс
 
-[![](/images/mars/th/image01.jpg)](/images/mars/image01.jpg) [![](/images/mars/th/image07.jpg)](/images/mars/image07.jpg) [![](/images/mars/th/image03.jpg)](/images/mars/image03.jpg)
-
-[![](/images/mars/th/image06.jpg)](/images/mars/image06.jpg) [![](/images/mars/th/image02.jpg)](/images/mars/image02.jpg) [![](/images/mars/th/image05.jpg)](/images/mars/image05.jpg)
+{{< gallery dir="/images/mars" >}}
 
 **МАРС** – идеальная пряжа практически для всех видов **вязаных изделий**: начиная от крупной вязки на 1,5-3 классах плосковязального оборудования до тонкого кулирного полотна на 10 классе. Отлично получаются кардиганы, свитера, костюмы, любые аксессуары.. Отлично себя зарекомендовала на вязаных пледах, потому что красиво, а также сохраняется форма после десяток стирок, не закатывается.
 

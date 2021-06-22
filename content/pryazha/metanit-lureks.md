@@ -40,8 +40,4 @@ draft: false
 
 Примеры трикотажных полотен и изделий с люрексом:
 
-[![вискоза метанит радуга](/images/pryazha/th/viskoza-metanit-raduga_0.jpg)](/images/pryazha/viskoza-metanit-raduga_0.jpg)
-[![вискоза метанит](/images/pryazha/th/вискозаметанит_0.jpg)](/images/pryazha/вискозаметанит_0.jpg)
-[![Метанит](/images/pryazha/th/metanit-2_1.jpg)](/images/pryazha/metanit-2_1.jpg)
-[![Примеры трикотажных полотен и изделий с люрексом:](/images/pryazha/th/IMG_0181_2.JPG)](/images/pryazha/IMG_0181_2.JPG)
-[![metallic_yarn](/images/pryazha/th/metallic_yarn_0.jpg)](/images/pryazha/metallic_yarn_0.jpg)
+{{< gallery dir="/images/pryazha/metanit" >}}

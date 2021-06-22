@@ -6,7 +6,7 @@ draft: false
 
 # Хлопок/Акрил
 
-[![](/images/khlopok/th/akril-khlopok-01.jpg)](/images/khlopok/akril-khlopok-01.jpg) [![](/images/khlopok/th/akril-khlopok-02.jpg)](/images/khlopok/akril-khlopok-02.jpg) [![](/images/khlopok/th/akril-khlopok-03.jpg)](/images/khlopok/akril-khlopok-03.jpg) [![](/images/khlopok/th/akril-khlopok-04.jpg)](/images/khlopok/akril-khlopok-04.jpg) [![](/images/khlopok/th/akril-khlopok-05.jpg)](/images/khlopok/akril-khlopok-05.jpg) [![](/images/khlopok/th/akril-khlopok-06.jpg)](/images/khlopok/akril-khlopok-06.jpg) [![](/images/khlopok/th/akril-khlopok-07.jpg)](/images/khlopok/akril-khlopok-07.jpg)
+{{< gallery dir="/images/khlopok" >}}
 
 **Хлопок/акрил**  
 Вязаные изделия их хлопка – любимый выбор большинства круглый год. Изделия из хлопка с акрилом легкие, дышащие, комфортные в носке, держат форму.

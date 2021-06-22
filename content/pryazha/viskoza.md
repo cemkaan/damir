@@ -24,32 +24,16 @@ draft: false
 
 Трикотажные изделия из вискозы с эластаном
 
-![джемпер, юбка, кардиган из вискозы](/images/pryazha/dzhemper-yubka-kardigan-iz-viskozy.jpg)
-
-![жаккардовое трикотажное полотно](/images/pryazha/zhakkardovoye-trikotazhnoye-polotno.jpg)
-
-![платье ажур вискоза](/images/pryazha/platye-azhur-viskoza.jpg)
-
-![платье и спортивный костюм из вискозы](/images/pryazha/platye-i-sportivnyy-kostyum-iz-viskozy.jpg)
+{{< gallery dir="/images/pryazha/viskoza/elastanom" >}}
 
 **Трикотажные изделия из вискозы с нейлоном**
 
-**![lotos](/images/pryazha/lotos6.jpg)**
-
-**![lotos](/images/pryazha/lotus5.jpg)**
-
-**![lotos](/images/pryazha/lotus10.jpg)**
-
-**![lotos](/images/pryazha/lotos7.jpg)**
+{{< gallery dir="/images/pryazha/viskoza/neylonom"   >}}
 
 **Трикотажные изделия из вискозы с полиамидом**
 
-**![beec](/images/pryazha/beec.jpg)**
+{{< gallery dir="/images/pryazha/viskoza/poliamidom"   >}}
 
 **Карта цветов вискозы в наличии со склада в Москве**
 
-**![vizkoza](/images/pryazha/viskoz-v-nalichii.jpg)**
-
-**![katalog](/images/pryazha/FullSizeRender-09-05-18-11-14.jpg)**
-
-**![model](/images/pryazha/FullSizeRender-09-05-18-11-13.jpg)**
+{{< gallery dir="/images/pryazha/viskoza/moskve"   >}}
