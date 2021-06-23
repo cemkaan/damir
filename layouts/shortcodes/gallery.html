@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="/css/glightbox.min.css" />
 
-{{/* TODO:get page resources https://gohugo.io/content-management/image-processing/ */}}
-
 <div id="gal">
   {{ $galCode :=  slicestr (md5  (.Get "dir")) 2 6 }}
   {{- with (.Get "dir") -}}
