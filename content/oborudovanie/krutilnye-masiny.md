@@ -1,5 +1,5 @@
 ---
-title: "Krutilnye Masiny"
+title: "Крутильные машины"
 date: 2021-06-17T17:27:35+03:00
 draft: false
 ---

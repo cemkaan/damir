@@ -1,5 +1,5 @@
 ---
-title: "Motalnye Masiny"
+title: "Мотальные машины"
 date: 2021-06-17T16:03:37+03:00
 draft: false
 ---

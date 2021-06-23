@@ -1,5 +1,5 @@
 ---
-title: "Beecnye Masiny"
+title: "Беечные машины"
 date: 2021-06-17T17:28:43+03:00
 draft: false
 ---

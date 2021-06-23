@@ -36,17 +36,17 @@ main p img {
   height: auto;
 }
 
-.Mars #gal .num,
-.Metanit.Lureks #gal .num,
-.Khlopok.Akril #gal .num,
-.Viskoza #gal .num,
-.Katalog.Izdeliy #gal .num {
-  visibility: hidden;
+@media (max-width: 767.98px) { 
+    main {
+    padding: 4rem 1rem;
+    font-size: 0.9rem;
+    color: #000;
+  }
 }
 
 @media (min-width: 768px) {
   main {
-    padding: 2rem 4rem;
+    padding: 4rem 3rem;
   }
 }
 
@@ -59,4 +59,91 @@ main p img {
   main {
     padding: 5rem 10rem;
   }
+}
+
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Каталог.изделий #gal .num {
+  visibility: hidden;
+}
+
+main h2:first-child {
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #006e5a;
+}
+.Beecnye.Masiny img {
+  float: right;
+  padding-left: 1rem;
+}
+
+.contact .info {
+  border-top: 3px solid #b0252d;
+  border-bottom: 3px solid #b0252d;
+  padding: 30px;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: #b0252d;
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #e7f5fb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #006e5a;
+}
+
+.contact .info p {
+  padding: 0 0 1px 4rem;
+  margin-bottom: 0.9rem;
+  font-size: 14px;
+  color: #6182ba;
+}
+
+.contact form {
+  width: 100%;
+  border-top: 3px solid #b0252d;
+  border-bottom: 3px solid #b0252d;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact form .form-group {
+  padding-bottom: 8px;
+}
+.contact form button[type="submit"] {
+  background: #00a385;
+  border: 0;
+  padding: 12px 34px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact form button[type="submit"]:hover {
+  background: #00a385;
 }

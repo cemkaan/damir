@@ -1,5 +1,5 @@
 ---
-title: "Oborudovanie Vto"
+title: "Оборудование ВТО"
 date: 2021-06-17T16:01:25+03:00
 draft: false
 ---

@@ -11,11 +11,11 @@
     {{- $thumbUrl := print ($.Get "dir") "/th/" .Name | relURL }}
     {{ $fileName := (strings.TrimSuffix ".jpg" .Name) }} 
      {{ if ne $fileName "th" }}
-  <a href="{{- $imageUrl -}}" class="g{{- $galCode -}}" 
-  data-gallery="g{{-  $galCode -}}"  data-title="{{ humanize  $fileName }}">
-    <img src="{{- $thumbUrl -}}" alt="{{ humanize  $fileName }}" />
-    <div class="num text-center">{{ humanize  $fileName }}</div>
-  </a>
+        <a href="{{- $imageUrl -}}" class="g{{- $galCode -}}" 
+        data-gallery="g{{-  $galCode -}}"  data-title="{{ humanize  $fileName }}">
+          <img src="{{- $thumbUrl -}}" alt="{{ humanize  $fileName }}" />
+          <div class="num text-center">{{ humanize  $fileName }}</div>
+        </a>
      {{ end }} 
    {{- end }} 
   {{- end }}

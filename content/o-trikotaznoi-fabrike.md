@@ -1,5 +1,5 @@
 ---
-title: "O Trikotaznoi Fabrike"
+title: "О трикотажной фабрике"
 date: 2021-06-17T18:24:21+03:00
 draft: false
 ---

@@ -36,9 +36,17 @@ main p img {
   height: auto;
 }
 
+@media (max-width: 767.98px) { 
+    main {
+    padding: 4rem 1rem;
+    font-size: 0.9rem;
+    color: #000;
+  }
+}
+
 @media (min-width: 768px) {
   main {
-    padding: 2rem 4rem;
+    padding: 4rem 3rem;
   }
 }
 
@@ -57,7 +65,7 @@ main p img {
 .Metanit.Lureks #gal .num,
 .Khlopok.Akril #gal .num,
 .Viskoza #gal .num,
-.Katalog.Izdeliy #gal .num {
+.Каталог.изделий #gal .num {
   visibility: hidden;
 }
 
@@ -71,6 +79,10 @@ main h2:first-child {
   padding-bottom: 20px;
   position: relative;
   color: #006e5a;
+}
+.Beecnye.Masiny img {
+  float: right;
+  padding-left: 1rem;
 }
 
 .contact .info {
