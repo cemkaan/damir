@@ -1,0 +1,16 @@
+.card-img-top {
+  height: 5rem;
+  object-fit: contain;
+}
+#partners .own-carousel__item .card {
+  height: 21rem;
+}
+#partners .own-carousel__item .card-title {
+  margin-bottom: 0.3rem;
+}
+#partners .own-carousel__item .card-body {
+  padding: 0.5rem;
+}
+#partners .own-carousel__item .card-text {
+  font-size: 0.85rem;
+}

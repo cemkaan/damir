@@ -1,0 +1,62 @@
+:root {
+  --bs-primary: #b0252d;
+}
+
+body {
+  /* background-color: #c0b2ab; */
+  color: #2e3d3b;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #00a385;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1c62ae;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+/*--------------------------------------------------------------
+# main
+--------------------------------------------------------------*/
+main {
+  background-color: #faf8f8;
+  min-height: 45rem;
+  padding: 0.5rem 1rem;
+  line-height: 1.8;
+}
+main p img {
+  max-width: 100%;
+  height: auto;
+}
+
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Katalog.Izdeliy #gal .num {
+  visibility: hidden;
+}
+
+@media (min-width: 768px) {
+  main {
+    padding: 2rem 4rem;
+  }
+}
+
+@media (min-width: 992px) {
+  main {
+    padding: 4rem 8rem;
+  }
+}
+@media (min-width: 1200px) {
+  main {
+    padding: 5rem 10rem;
+  }
+}
