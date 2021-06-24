@@ -1,20 +1,19 @@
-:root {
-  --bs-primary: #b0252d;
-}
-
 body {
-  /* background-color: #c0b2ab; */
+  --brand: var(--brand);
+  --green: #00a385;
+  --blue: #145dbb;
   color: #2e3d3b;
   font-family: "Montserrat", sans-serif;
+  background-color: brand-color;
 }
 
 a {
-  color: #00a385;
+  color: var(--green);
   text-decoration: none;
 }
 
 a:hover {
-  color: #1c62ae;
+  color: var(--blue);
   text-decoration: none;
 }
 
@@ -36,8 +35,8 @@ main p img {
   height: auto;
 }
 
-@media (max-width: 767.98px) { 
-    main {
+@media (max-width: 767.98px) {
+  main {
     padding: 4rem 1rem;
     font-size: 0.9rem;
     color: #000;
@@ -57,18 +56,9 @@ main p img {
 }
 @media (min-width: 1200px) {
   main {
-    padding: 5rem 10rem;
+    padding: 4rem 8rem;
   }
 }
-
-.Mars #gal .num,
-.Metanit.Lureks #gal .num,
-.Khlopok.Akril #gal .num,
-.Viskoza #gal .num,
-.Каталог.изделий #gal .num {
-  visibility: hidden;
-}
-
 main h2:first-child {
   text-align: center;
   padding-bottom: 30px;
@@ -80,14 +70,27 @@ main h2:first-child {
   position: relative;
   color: #006e5a;
 }
+/* pages */
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Каталог.изделий #gal .num {
+  visibility: hidden;
+}
+
 .Beecnye.Masiny img {
   float: right;
   padding-left: 1rem;
 }
 
+.Крутильные.машины div[style] {
+  margin-bottom: 3rem;
+}
+/* contact */
 .contact .info {
-  border-top: 3px solid #b0252d;
-  border-bottom: 3px solid #b0252d;
+  border-top: 3px solid var(--brand);
+  border-bottom: 3px solid var(--brand);
   padding: 30px;
   background: #fff;
   width: 100%;
@@ -96,7 +99,7 @@ main h2:first-child {
 
 .contact .info i {
   font-size: 20px;
-  color: #b0252d;
+  color: var(--brand);
   float: left;
   width: 44px;
   height: 44px;
@@ -125,8 +128,8 @@ main h2:first-child {
 
 .contact form {
   width: 100%;
-  border-top: 3px solid #b0252d;
-  border-bottom: 3px solid #b0252d;
+  border-top: 3px solid var(--brand);
+  border-bottom: 3px solid var(--brand);
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -136,7 +139,7 @@ main h2:first-child {
   padding-bottom: 8px;
 }
 .contact form button[type="submit"] {
-  background: #00a385;
+  background: var(--green);
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -145,5 +148,5 @@ main h2:first-child {
 }
 
 .contact form button[type="submit"]:hover {
-  background: #00a385;
+  background: var(--green);
 }
