@@ -10,9 +10,14 @@ draft: false
 
 ВНИМАНИЕ НОВИНКА СО СКЛАДА В МОСКВЕ!
 
+
 {{< youtube  96P7l4sKwkM >}}
+
+
 {{< youtube  rkogTubQdII >}}
+
 {{< youtube  j-S03ejE9Ic >}}
+
 {{< youtube  LHBXr7Ixe0U >}}
 
 ![Крутильные машины](/images/oborudovanie/kur-mas1.png)![Крутильные машины](/images/oborudovanie/2.jpg)

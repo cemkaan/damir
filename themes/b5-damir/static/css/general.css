@@ -59,15 +59,6 @@ main p img {
     padding: 4rem 8rem;
   }
 }
-
-.Mars #gal .num,
-.Metanit.Lureks #gal .num,
-.Khlopok.Akril #gal .num,
-.Viskoza #gal .num,
-.Каталог.изделий #gal .num {
-  visibility: hidden;
-}
-
 main h2:first-child {
   text-align: center;
   padding-bottom: 30px;
@@ -79,11 +70,24 @@ main h2:first-child {
   position: relative;
   color: #006e5a;
 }
+/* pages */
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Каталог.изделий #gal .num {
+  visibility: hidden;
+}
+
 .Beecnye.Masiny img {
   float: right;
   padding-left: 1rem;
 }
 
+.Крутильные.машины div[style] {
+  margin-bottom: 3rem;
+}
+/* contact */
 .contact .info {
   border-top: 3px solid var(--brand);
   border-bottom: 3px solid var(--brand);
