@@ -1,10 +1,9 @@
 body {
-  --brand: var(--brand);
+  --brand: #b0252d;
   --green: #00a385;
   --blue: #145dbb;
   color: #2e3d3b;
   font-family: "Montserrat", sans-serif;
-  background-color: brand-color;
 }
 
 a {
