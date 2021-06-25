@@ -71,11 +71,7 @@ main h2:first-child {
   color: #006e5a;
 }
 /* pages */
-.Mars #gal .num,
-.Metanit.Lureks #gal .num,
-.Khlopok.Akril #gal .num,
-.Viskoza #gal .num,
-.Каталог.изделий #gal .num {
+#gal .num {
   visibility: hidden;
 }
 
