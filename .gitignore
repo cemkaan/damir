@@ -17,11 +17,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
+yarn.lock
 
 # Dependency directories
 node_modules/
-
-# yarn 
-
-.yarn*
-
