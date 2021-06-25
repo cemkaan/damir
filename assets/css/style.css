@@ -80,8 +80,8 @@ main h2:first-child {
   padding-left: 1rem;
 }
 
-.Крутильные.машины div[style] {
-  margin-bottom: 3rem;
+#content div[style] {
+  margin-bottom: 2rem;
 }
 /* contact */
 .contact .info {
