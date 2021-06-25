@@ -1,0 +1,351 @@
+body {
+  --brand: var(--brand);
+  --green: #00a385;
+  --blue: #145dbb;
+  color: #2e3d3b;
+  font-family: "Montserrat", sans-serif;
+  background-color: brand-color;
+}
+
+a {
+  color: var(--green);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--blue);
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+/*--------------------------------------------------------------
+  # main
+  --------------------------------------------------------------*/
+main {
+  background-color: #faf8f8;
+  min-height: 45rem;
+  padding: 0.5rem 1rem;
+  line-height: 1.8;
+}
+main p img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 767.98px) {
+  main {
+    padding: 4rem 1rem;
+    font-size: 0.9rem;
+    color: #000;
+  }
+}
+
+@media (min-width: 768px) {
+  main {
+    padding: 4rem 3rem;
+  }
+}
+
+@media (min-width: 992px) {
+  main {
+    padding: 4rem 8rem;
+  }
+}
+@media (min-width: 1200px) {
+  main {
+    padding: 4rem 8rem;
+  }
+}
+main h2:first-child {
+  text-align: center;
+  padding-bottom: 30px;
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  position: relative;
+  color: #006e5a;
+}
+/* pages */
+.Mars #gal .num,
+.Metanit.Lureks #gal .num,
+.Khlopok.Akril #gal .num,
+.Viskoza #gal .num,
+.Каталог.изделий #gal .num {
+  visibility: hidden;
+}
+
+.Beecnye.Masiny img {
+  float: right;
+  padding-left: 1rem;
+}
+
+.Крутильные.машины div[style] {
+  margin-bottom: 3rem;
+}
+/* contact */
+.contact .info {
+  border-top: 3px solid var(--brand);
+  border-bottom: 3px solid var(--brand);
+  padding: 30px;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.1);
+}
+
+.contact .info i {
+  font-size: 20px;
+  color: var(--brand);
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #e7f5fb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #006e5a;
+}
+
+.contact .info p {
+  padding: 0 0 1px 4rem;
+  margin-bottom: 0.9rem;
+  font-size: 14px;
+  color: #6182ba;
+}
+
+.contact form {
+  width: 100%;
+  border-top: 3px solid var(--brand);
+  border-bottom: 3px solid var(--brand);
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact form .form-group {
+  padding-bottom: 8px;
+}
+.contact form button[type="submit"] {
+  background: var(--green);
+  border: 0;
+  padding: 12px 34px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.contact form button[type="submit"]:hover {
+  background: var(--green);
+}
+#header {
+  background: #ffffffe9;
+  transition: all 0.5s;
+  z-index: 997;
+}
+.navbar {
+  padding: 0;
+  font-weight: 900;
+}
+.navbar .dropdown-menu {
+  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+}
+.navbar .dropdown-item {
+  padding: 1rem;
+  font-weight: 900;
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .dropdown-item:hover {
+  color: #b0052a;
+}
+.dropdown-item.active,
+.navbar-light .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #b0252d;
+}
+
+@media (max-width: 1366px) {
+  .navbar .dropdown .dropdown ul {
+    left: -90%;
+  }
+  .navbar .dropdown .dropdown:hover > ul {
+    left: -100%;
+  }
+}
+/**
+  * Mobile Navigation 
+  */
+.mobile-nav-toggle {
+  color: #fff;
+  font-size: 28px;
+  cursor: pointer;
+  display: none;
+  line-height: 0;
+  transition: 0.5s;
+}
+/*--------------------------------------------------------------
+# About Us
+--------------------------------------------------------------*/
+.about .content {
+  word-spacing: 0.3em;
+  line-height: 1.8;
+}
+.about .content strong {
+  letter-spacing: 0.2rem;
+}
+
+.about .content ul {
+  list-style: disc;
+  padding: 1rem;
+}
+
+.about .content ul li {
+  padding-left: 28px;
+  position: relative;
+}
+
+.about .content ul li + li {
+  margin-top: 10px;
+}
+.card-img-top {
+  height: 5rem;
+  object-fit: contain;
+}
+#partners .own-carousel__item .card {
+  height: 21rem;
+}
+#partners .own-carousel__item .card-title {
+  margin-bottom: 0.3rem;
+}
+#partners .own-carousel__item .card-body {
+  padding: 0.5rem;
+}
+#partners .own-carousel__item .card-text {
+  font-size: 0.85rem;
+}
+#gal {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  font-size: 14px;
+  background: #2e3d3b;
+}
+
+#footer .footer-top {
+  padding: 60px 0 30px 0;
+  background: #f1ece9;
+}
+
+#footer .footer-top .footer-contact {
+  margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-contact p {
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 0;
+  color: #5e5e5e;
+}
+
+#footer .footer-top .footer-links {
+  margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer .footer-top .footer-links ul i {
+  padding-right: 2px;
+  color: #00a385;
+  font-size: 18px;
+  line-height: 1;
+}
+
+#footer .footer-top .footer-links ul li {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+}
+
+#footer .footer-top .footer-links ul li:first-child {
+  padding-top: 0;
+}
+
+#footer .footer-top .footer-links ul a {
+  color: #2e3d3b;
+  transition: 0.3s;
+  display: inline-block;
+  line-height: 1;
+}
+
+#footer .footer-top .footer-links ul a:hover {
+  text-decoration: none;
+  color: #00a385;
+}
+
+#footer .footer-top .social-links a {
+  font-size: 1.33rem;
+  display: inline-block;
+  background: #006e5a;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#footer .footer-top .social-links a:hover {
+  background: #2e3d3b;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .footer-bottom {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+}
+
+#footer .copyright {
+  float: left;
+}
+
+@media (max-width: 768px) {
+  #footer .footer-bottom {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  #footer .copyright,
+  #footer .credits {
+    text-align: center;
+    float: none;
+  }
+  #footer .credits {
+    padding-top: 4px;
+  }
+}

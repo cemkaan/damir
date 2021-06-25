@@ -2,16 +2,18 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-  <link rel="stylesheet" href="/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="/css/style.css" />
-  <!-- TODO:Asset bundling PostCSS PURGE-->
+
+  {{ $bootstrap := resources.Get "css/bootstrap.min.css"}}
+  {{ $custom   := resources.Get "css/style.css"}}
+  {{ $css := slice $bootstrap $custom  | resources.Concat "css/bundle.css" | resources.PostCSS | resources.Minify}}
+  <link rel="stylesheet" href="{{- $css.RelPermalink -}}" />
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet" />
-  <!-- TODO:  Bootstrap Icons SVGs -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
   {{ if eq .Kind "home" }}  
-  <link href="/css/own-carousel.min.css" rel="stylesheet" />
-  <!-- TODO: manuel purgecss -->
+  {{ $carousel   := resources.Get "css/own-carousel.min.css"}}
+  {{ $carouselClean   := $carousel | resources.PostCSS }}
+  <link href="{{- $carouselClean.RelPermalink -}}" rel="stylesheet" />
   {{end}}
   <title>{{ .Page.Title }}  </title>
   <meta name="description" content="{{ .Site.Title}}">
