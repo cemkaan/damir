@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
   {{- partial "head.html" . -}}
-  <body>
+
+  <body>  
     {{ partial "metrica.html" . }}  
     {{- partial "header.html" . -}}
     <div id="content">{{- block "main" . }}{{- end }}</div>
