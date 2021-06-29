@@ -18,7 +18,15 @@
   <title>{{ .Page.Title }}  </title>
   <meta name="description" content="{{ .Page.Description | plainify}}">
   <link rel="canonical" href="{{.Permalink}}">
+  <meta property="og:image" content="{{.Site.BaseURL}}images/da-mir-site.webp"/>
+  <meta property="og:image:url" content="{{.Site.BaseURL}}images/da-mir-site.jpg"/>
   <meta property="og:locale" content="ru_RU">
   <meta property="og:site_name" content="Дамир Текстиль">
+  <meta property="og:longitude" content="37.7688543"/>
+  <meta property="og:latitude" content="55.810854"/>
+  <meta property="og:street_address" content="ул. Амурская 9/6"/>
+  <meta property="og:region" content="Москва"/>
+  <meta property="og:country_name" content="Russia"/>
+  <meta property="og:phone_number" content="+7 (495) 542-78-47"/>
   {{ template "_internal/opengraph.html" . }}
 </head>
