@@ -60,11 +60,13 @@ enableRobotsTXT = true
   [[menu.main]]
     parent = "Сервис STOLL"
     name = "Восстановленные машины Stoll"
-    url = "/servis-stoll/vosstanovlennye-masiny-stoll/"
+    url = "/servis-stoll/vosstanovlennye-masiny-stoll"
+    weight = 1
   [[menu.main]]
     parent = "Сервис STOLL"
     name = "Обучение работе на Stoll"
     url = "/servis-stoll/obucenie-rabote-na-stoll/"
+    weight = 2
   [[menu.main]]
     parent = "Сервис STOLL"
     name = "Ремонт электроники и механики"
