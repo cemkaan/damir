@@ -16,7 +16,9 @@
   <link href="{{- $carouselClean.RelPermalink -}}" rel="stylesheet" />
   {{end}}
   <title>{{ .Page.Title }}  </title>
-  <meta name="description" content="{{ .Site.Title}}">
+  <meta name="description" content="{{ .Page.Description | plainify}}">
   <link rel="canonical" href="{{.Permalink}}">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:site_name" content="Дамир Текстиль">
   {{ template "_internal/opengraph.html" . }}
 </head>
