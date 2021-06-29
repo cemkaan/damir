@@ -17,5 +17,6 @@
   {{end}}
   <title>{{ .Page.Title }}  </title>
   <meta name="description" content="{{ .Site.Title}}">
+  <link rel="canonical" href="{{.Permalink}}">
   {{ template "_internal/opengraph.html" . }}
 </head>
