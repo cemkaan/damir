@@ -1,15 +1,19 @@
 {{ define "main" }}
-<div class="row text-warning">
-    <div class="col"><h1>404</h1></div>
-    <div class="col">
+<div class="container pt-5 mt-5 text-center">
+    <div class="row text-warning pt-5 mt-5">
+        <div class="col pt-5 mt-5  ">
+            <h1 >404</h1>
+            <p class="fs-1">Мы почти уверены, что эта страница была здесь, но, похоже, пропала. Мы приносим свои извинения от его имени.</p>
+        </div>
+        <div class="col my-5 mx-auto " style="height: 360px;">
+            <a href="{{ .Site.BaseURL}}"><img src="/images/damir-logo-fp.png" alt="not found" height="90px"></a>
+       <br><br>
+       <p>
 
-        <a href="https://da-mir.ru/"><img src="/images/damir-logo-fb.png" alt="not found"></a>
+       </p>
+        </div>
     </div>
-
 </div>
-<div class="row text-danger">
 
-    <p>Мы почти уверены, что эта страница была здесь, но, похоже, пропала. Мы приносим свои извинения от его имени.</p>
-</div>
 
 {{ end }}
