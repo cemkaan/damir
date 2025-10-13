@@ -7,4 +7,4 @@ description: "каталог запчастей плосковязальных �
 
 # Каталог
 
-{{<katalog src="damir_katalog-compressed.pdf">}}
+{{<katalog>}}
